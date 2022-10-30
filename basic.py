@@ -9,3 +9,11 @@ print(Fore.GREEN + 'some red text' + Style.RESET_ALL)
 
 print('one line')
 print(car_game.car.Car)
+
+
+def get_greeting():
+    greeting = "Hello, SDA!"
+    return greeting
+
+
+print(get_greeting())
