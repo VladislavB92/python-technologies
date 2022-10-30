@@ -8,4 +8,3 @@ print(platform.python_version())
 print(Fore.GREEN + 'some red text' + Style.RESET_ALL)
 
 print('one line')
-print(car_game.car.Car)
